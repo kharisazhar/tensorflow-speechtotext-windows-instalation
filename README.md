@@ -28,6 +28,7 @@ Change directory within that branch to the location containing the examples used
   cd tensorflow/examples/speech_commands
 
 Start train.py , open cmd then 
+
     * python train.py
   
    
